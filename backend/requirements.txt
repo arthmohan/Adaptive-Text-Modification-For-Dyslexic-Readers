@@ -1,0 +1,16 @@
+Flask
+fastapi
+torch
+transformers  # For LLaMA or GPT model
+openai  # If using GPT-based API
+pdfplumber  # For extracting text from PDFs
+pytesseract  # OCR for image input
+Pillow  # Image processing
+python-docx  # Word file processing
+reportlab  # Generating PDFs
+flask
+flask-cors
+python-docx
+pdfminer.six
+pytesseract
+pillow

@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@font-face{
+    font-family: 'Comic Sans MS';
+    src: url('./fonts/Comic\ Sans\ MS.ttf')
+    
+}
+
+@font-face {
+    font-family: 'OpenDyslexic-Regular' ;
+    src: url('./fonts/OpenDyslexic-Regular.otf');
+}
+
+body{
+    font-family: 'OpenDyslexic-Regular';
+    margin: 0;
+    padding: 0;
+    background-color: #FFF7EF;
+    color: #000065;
+}
